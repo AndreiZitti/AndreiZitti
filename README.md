@@ -26,8 +26,13 @@ I'm building AI systems and writing my master's thesis in the **medical AI field
 **AI/ML:** PyTorch • TensorFlow • Triton • Hugging Face • OpenCV  
 **Frontend:** React • Next.js • JavaScript • GSAP • Three.js  
 **Backend:** Node.js • Express  
-**Database:** MongoDB • PostgreSQL  
-**DevOps:** Docker • Git
+**Database:** MongoDB • PostgreSQL • Supabase  
+**Cloud:** GCP • Azure • AWS  
+**DevOps:** Docker • Git • GitHub Actions • Vercel • Netlify
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,nextjs,nodejs,mongodb,postgres,docker,gcp,azure,aws,git" />
+</div>
 
 ---
 

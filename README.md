@@ -37,23 +37,10 @@ I'm building AI systems and writing my master's thesis in the **medical AI field
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreiZittiE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiZittiE&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreiZittiE&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AndreiZittiE/AndreiZittiE/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AndreiZitti/AndreiZitti/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -82,5 +69,5 @@ When I'm not coding or researching, you'll find me:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndreiZittiE&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AndreiZitti&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>

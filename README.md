@@ -33,11 +33,9 @@ I'm building AI systems and writing my master's thesis in the **medical AI field
 
 ### 🐍 Contribution Activity
 
-**AI/ML:** PyTorch • TensorFlow • Triton • Hugging Face • OpenCV  
-**Frontend:** React • Next.js • JavaScript • GSAP • Three.js  
-**Backend:** Node.js • Express  
-**Database:** MongoDB • PostgreSQL  
-**DevOps:** Docker • Git
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AndreiZitti/AndreiZitti/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 

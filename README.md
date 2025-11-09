@@ -71,3 +71,67 @@ When I'm not coding or researching, you'll find me:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AndreiZitti&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
+
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Andrei+👋;AI+Engineer+%26+Researcher;Medical+AI+Specialist;Full+Stack+Developer&font=Fira+Code&center=true&width=440&height=50&color=36BCF7&vCenter=true&pause=1000&size=22" />
+</h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 👨‍💻 About Me
+
+I'm building AI systems and writing my master's thesis in the **medical AI field**. Currently freelancing and working on projects that bridge cutting-edge AI with real-world applications.
+
+**🌐 [View My Projects](https://projects.zitti.ro)**  
+**💼 [Personal Website](https://me.zitti.ro)**
+
+<br clear="both"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🔬 Currently Working On
+
+- 🧠 Master's thesis in medical AI
+- 🤖 Building AI-powered applications
+- 🎨 Interactive web experiences with GSAP & Three.js
+- 🚀 AI and full-stack freelance projects
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,pytorch,nodejs,docker,git" alt="Tech Stack"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🌟 Beyond Code
+
+🔭 Stargazing at Sternenpark Winklmoosalm in Bavaria  
+⛵ Sailing and running a sailing academy  
+📚 Reading and building my personal library
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌐_me.zitti.ro-Visit-blue?style=for-the-badge)](https://me.zitti.ro)
+[![Projects](https://img.shields.io/badge/💼_projects.zitti.ro-Explore-00C7B7?style=for-the-badge)](https://projects.zitti.ro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AndreiZitti&icon=5&color=6" alt="Visit Count"/>
+  <br><br>
+  <i>⚡ Building the future, one line of code at a time ⚡</i>
+</div>

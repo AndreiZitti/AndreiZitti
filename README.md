@@ -4,7 +4,7 @@
 
 ---
 
-### 👋 Hey, I'm Andrei <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey, I'm Andrei 
 
 I'm building AI systems and writing my master's thesis in the **medical AI field**. Currently freelancing and working on projects that bridge cutting-edge AI with real-world applications.
 
@@ -33,9 +33,11 @@ I'm building AI systems and writing my master's thesis in the **medical AI field
 
 ### 🐍 Contribution Activity
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AndreiZitti/AndreiZitti/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+**AI/ML:** PyTorch • TensorFlow • Triton • Hugging Face • OpenCV  
+**Frontend:** React • Next.js • JavaScript • GSAP • Three.js  
+**Backend:** Node.js • Express  
+**Database:** MongoDB • PostgreSQL  
+**DevOps:** Docker • Git
 
 ---
 

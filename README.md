@@ -8,7 +8,7 @@
 
 I'm building AI systems and writing my master's thesis in the **medical AI field**. Currently freelancing and working on projects that bridge cutting-edge AI with real-world applications.
 
-**🌐 [View My Projects](https://projects.zitti.ro)** | **💼 [Personal Website](https://me.zitti.ro)**
+**🌐 [View My Projects](https://projects.zitti.ro)** | **💼 [Personal Website](https://zitti.ro)**
 
 ---
 
